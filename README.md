@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Euryan
-- 👀 I’m interested in Robotics And Web
-- 🌱 I’m currently learning Arduino and esp and Web
-- 💞️ I’m looking to collaborate on Robot project
-- 📫 How to reach me send me a mail
+- 🏫 9th Grade Student @smpn16cmh
+- 🧑‍💻 Robotics, Machine Learning & IoT Enthusiast
+- 🌱 Future Environmental Tech Specialist
+- 🎵 Japanese Idol Songs lover
 
 <!---
 Euryan/Euryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
