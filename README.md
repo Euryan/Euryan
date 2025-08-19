@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Euryan
-- 🏫 9th Grade Student @smpn16cmh
+- 🏫 10th Grade Student SMK Sangkuriang 1 Cimahi
 - 🧑‍💻 Robotics, Machine Learning & IoT Enthusiast
 - 🌱 Future Environmental Tech Specialist
 - 🎵 Japanese Idol Songs lover
